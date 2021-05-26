@@ -12,15 +12,15 @@
 
 
     <ImageView
-        android:layout_width="118dp"
-        android:layout_height="107dp"
+        android:layout_width="173dp"
+        android:layout_height="191dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="151dp"
-        android:layout_marginLeft="151dp"
-        android:layout_marginTop="183dp"
-        app:srcCompat="@drawable/bread"
+        android:layout_marginStart="131dp"
+        android:layout_marginLeft="131dp"
+        android:layout_marginTop="119dp"
+        app:srcCompat="@drawable/statue_classical"
         tools:layout_editor_absoluteY="100dp" />
 
     <TextView

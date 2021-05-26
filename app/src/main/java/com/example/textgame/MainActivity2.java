@@ -70,7 +70,7 @@ public class MainActivity2 extends AppCompatActivity {
                     }
                 }
                 else{
-                    Toast.makeText(MainActivity2.this, "Success", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity2.this, String.valueOf(stage-1) + "correct!", Toast.LENGTH_SHORT).show();
                 }
             }
         });
